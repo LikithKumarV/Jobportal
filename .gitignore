@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+target/
+dist/
+build/
+
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# Java compiled files
+*.class
+*.log
+*.jar
+.mvn/
+mvnw
+mvnw.cmd
+
+# OS generated files
+.DS_Store
+Thumbs.db
